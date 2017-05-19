@@ -1,4 +1,4 @@
-Arduino
+Arduino Sequencer
 =======
 
-Arduino projects
+Small Arduino sequencer with variable tempo controllable through a potentiometer.
